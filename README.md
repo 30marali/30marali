@@ -1,7 +1,7 @@
 # Hello! 🌟
 
 My name is Omar Ali. I am a Software Engineer living near Cairo, Egypt. 🏜️
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Always+learning+new+things&color=00FF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Always+learning+new+things&color=00FF00)](https://git.io/typing-svg)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20future%20of%20mobile%20is%20the%20future%20of%20everything.&author=Matt%20Galligan&type=horizontal&theme=monokai&quoteColor=00FF00)](https://github.com/piyushsuthar/github-readme-quotes)
 
